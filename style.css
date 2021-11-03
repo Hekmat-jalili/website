@@ -1,0 +1,85 @@
+
+
+
+body{
+    /* background-color:whitesmoke; */
+    height: 160px;
+}
+.myimage{
+    float: right;
+}
+
+li{
+    display: inline;
+    margin-left: 30px;
+    text-decoration: none; 
+    
+}
+ul{
+    margin-top: 50px;
+    list-style-type: none;
+    font-size: 20px;
+    
+}
+label{
+    background-color: rosybrown;
+}
+a{
+    text-decoration: none;
+}
+
+.container-fluid{
+        float:right;
+        align:right;
+        margin-top:100px;
+       
+}
+
+.firstmain{
+     margin-top: 40px;
+}
+.team{
+    margin-top: -300px;
+}
+
+p:hover{
+        font-size: 20px;
+        font-style: normal;
+        overflow: none;
+}
+
+h1{
+ color: teal;
+}
+
+.colors{
+    color:lightskyblue;
+}
+
+p{
+    color:rgb(201, 134,78);
+}
+.myfirstclass{
+      background-color: whitesmoke;
+}
+
+.afghanistan{
+    color:aliceblue;
+    background-color: gainsboro;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-bottom:30px;
+}
+
+#contact{
+      text-align: center;
+
+}
+
+.red{
+    color:red;
+    
+}
+.green{
+    color:green;
+}
